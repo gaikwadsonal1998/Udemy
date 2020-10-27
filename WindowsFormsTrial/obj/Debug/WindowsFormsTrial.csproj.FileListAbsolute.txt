@@ -1,0 +1,10 @@
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\bin\Debug\WindowsFormsTrial.exe.config
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\bin\Debug\WindowsFormsTrial.exe
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\bin\Debug\WindowsFormsTrial.pdb
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.csprojAssemblyReference.cache
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.Form1.resources
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.Properties.Resources.resources
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.csproj.GenerateResource.cache
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.csproj.CoreCompileInputs.cache
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.exe
+C:\Users\sarvanya\source\repos\WindowsFormsTrial\obj\Debug\WindowsFormsTrial.pdb
